@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "IntelligentLicenseAnalyzer": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
